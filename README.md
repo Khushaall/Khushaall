@@ -8,6 +8,7 @@
 - 📝 **[Blog Nest](https://blog-nest-bkcr.onrender.com/)** – Blog app with full CRUD, EJS templating, login/auth
 - 💬 **[Chat App](https://chat-app-p2h8.onrender.com/)** – Real-time room-based chat using WebSockets (no DB/auth)
 - 🛍️ **[Amazon Clone](https://amazon-clone-8x6n.onrender.com/)** – E-commerce clone with cart, auth, and product display
+- 🤖 **QnAi** *(Coming Soon)* - AI-powered MCQ interview platform using Groq API and Firebase
 
 
 ---
