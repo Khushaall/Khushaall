@@ -38,7 +38,7 @@
 ## 📫 Connect with Me
 
 - 📧 Email: khushalsharma122@gmail.com 
-- 💼 [LinkedIn]: ([Khushal Sharma](https://www.linkedin.com/in/khushaall/)) 
+- 💼 [LinkedIn]: [Khushal Sharma] (https://www.linkedin.com/in/khushaall/)) 
 
 ---
 
