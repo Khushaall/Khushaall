@@ -2,46 +2,38 @@
 
 - 💻 Full-Stack Developer | MERN Stack
 - 🎓 2025 CSE Graduate
-- 🌱 Learning: Scalable backend systems, AI APIs, and system design
 
 ---
 
-## 🧠 Live Projects
-
-- 🛍️ **[Amazon Clone](https://amazon-clone-8x6n.onrender.com/)**  
-  E-commerce web app with cart functionality, product listing, and modern UI.
-
-- ✍️ **[Blog Nest](https://blog-nest-bkcr.onrender.com/)**  
-  Full-featured blog platform built with EJS, authentication, and post CRUD.
-
-- 💾 **[Brain Vault](https://getbrainvault.netlify.app/)**  
-  Personal bookmark manager to organize and save links for future use.
-
-- 💬 **[Chat App](https://chat-app-p2h8.onrender.com/)**  
-  Real-time chat using WebSocket; no DB/auth, just enter a name and start chatting.
-
-- 🤖 **QnAi** *(Live Soon)*  
-  AI-powered MCQ interview simulator using Groq API and Firebase, with scoring.
+### 🧠 Projects (Live Demos)
+- 💾 **[Brain Vault](https://getbrainvault.netlify.app/)** – Bookmark manager to store & organize useful links.
+- 📝 **[Blog Nest](https://blog-nest-bkcr.onrender.com/)** – Blog app with full CRUD, EJS templating, login/auth.
+- 💬 **[Chat App](https://chat-app-p2h8.onrender.com/)** – Real-time room-based chat using WebSockets.
+- 🛍️ **[Amazon Clone](https://amazon-clone-8x6n.onrender.com/)** – E-commerce clone with cart, auth, and product display.
+- 🤖 **QnAi** *(Live Soon)* – AI-powered MCQ interview simulator using Groq API and Firebase, with scoring.
 
 
 ---
 
-## 🛠️ Tech Stack
-
-**Languages:**  
-`JavaScript` `TypeScript` `C++`  
-**Frontend:**  
-`React.js` `Tailwind CSS` `HTML` `CSS`  
-**Backend:**  
-`Node.js` `Express.js` `MongoDB` `Firebase`  
-**Tools & Platforms:**  
-`Git` `Render` `Netlify` `Postman` `VS Code`
+### 🛠️ Tech Stack
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?logo=mongodb&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
+![EJS](https://img.shields.io/badge/-EJS-black)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
 
 ---
 
-## 📊 GitHub Stats
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Khushaall&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushaall&layout=compact&theme=radical" />
+</p>
 
-![Khushal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khushaall&show_icons=true&theme=radical)
 
 ---
 
