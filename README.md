@@ -1,7 +1,6 @@
-# 👋 Hi, I'm Khushal Sharma
+<h2 align="center">Hi 👋, I'm Khushal Sharma</h2>
+<p align="center">🚀 Full Stack Developer | MERN + TypeScript | 🎓 2025 CSE Graduate </p>
 
-- 💻 Full-Stack Developer | MERN Stack
-- 🎓 2025 CSE Graduate
 
 ---
 
@@ -10,7 +9,7 @@
 - 📝 **[Blog Nest](https://blog-nest-bkcr.onrender.com/)** – Blog app with full CRUD, EJS templating, login/auth.
 - 💬 **[Chat App](https://chat-app-p2h8.onrender.com/)** – Real-time room-based chat using WebSockets.
 - 🛍️ **[Amazon Clone](https://amazon-clone-8x6n.onrender.com/)** – E-commerce clone with cart, auth, and product display.
-- 🤖 **QnAi** *(Live Soon)* – AI-powered MCQ interview simulator using Groq API and Firebase, with scoring.
+- 🤖 **[QnAi (Repo)](https://github.com/Khushaall/QnAi)** *(Live soon)* – AI-powered MCQ interview platform using Groq API and Firebase
 
 
 ---
@@ -29,7 +28,6 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Khushaall&theme=tokyonight" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushaall&layout=compact&theme=radical" />
 </p>
@@ -40,7 +38,7 @@
 ## 📫 Connect with Me
 
 - 📧 Email: khushalsharma122@gmail.com 
-- 💼 [LinkedIn]((https://www.linkedin.com/in/khushaall/)) 
+- 💼 [LinkedIn]: ([Khushal Sharma](https://www.linkedin.com/in/khushaall/)) 
 
 ---
 
