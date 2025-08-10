@@ -5,7 +5,7 @@
 ---
 
 ### 🧠 Projects (Live Links)
-- 🤖 **[QnAi (Repo)]([https://github.com/Khushaall/QnAi](https://github.com/Khushaall/Ai-Interview))** *(Live soon)* – AI-powered MCQ interview platform using Groq API and Firebase.
+- 🤖 **[QnAi (Repo)](https://github.com/Khushaall/Ai-Interview)** *(Live soon)* – AI-powered MCQ interview platform using Groq API and Firebase.
 - 💾 **[Brain Vault](https://getbrainvault.netlify.app/)** – Bookmark manager to store & organize useful links.
 - 📝 **[Blog Nest](https://blog-nest-bkcr.onrender.com/)** – Blog app with full CRUD, EJS templating, login/auth.
 - 💬 **[Chat App](https://chat-app-p2h8.onrender.com/)** – Real-time room-based chat using WebSockets.
